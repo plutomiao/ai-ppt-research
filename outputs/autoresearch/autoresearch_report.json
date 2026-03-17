@@ -1,0 +1,9 @@
+{
+  "iterations": 5,
+  "best_score": 66,
+  "final_params": {
+    "title_margin_x": 80,
+    "title_margin_y": 30,
+    "box_margin": 20
+  }
+}
