@@ -6,7 +6,7 @@
 import os, json, subprocess, time
 from pathlib import Path
 from PIL import Image, ImageDraw
-import google.generativeai as genai
+#import google.generativeai as genai
 
 print("🚀 统一自演进引擎启动")
 

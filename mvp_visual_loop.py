@@ -7,7 +7,7 @@ from dataclasses import dataclass
 from pathlib import Path
 from typing import Dict, Tuple
 
-import google.generativeai as genai
+#import google.generativeai as genai
 from PIL import Image, ImageDraw, ImageFont
 
 
