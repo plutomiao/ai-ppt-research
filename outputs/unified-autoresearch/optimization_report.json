@@ -1,0 +1,15 @@
+{
+  "iterations": 5,
+  "best_score": 60,
+  "final_params": {
+    "title_x": 100,
+    "title_y": 50,
+    "box": [
+      80,
+      150,
+      1200,
+      700
+    ]
+  },
+  "timestamp": "2026-03-17 15:50:51"
+}
